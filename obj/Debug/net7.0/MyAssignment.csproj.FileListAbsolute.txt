@@ -1,0 +1,14 @@
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.AssemblyInfoInputs.cache
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.AssemblyInfo.cs
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.csproj.CoreCompileInputs.cache
+C:\Users\salee\desktop\projects\MyAssignment\bin\Debug\net7.0\MyAssignment.exe
+C:\Users\salee\desktop\projects\MyAssignment\bin\Debug\net7.0\MyAssignment.deps.json
+C:\Users\salee\desktop\projects\MyAssignment\bin\Debug\net7.0\MyAssignment.runtimeconfig.json
+C:\Users\salee\desktop\projects\MyAssignment\bin\Debug\net7.0\MyAssignment.dll
+C:\Users\salee\desktop\projects\MyAssignment\bin\Debug\net7.0\MyAssignment.pdb
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.dll
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\refint\MyAssignment.dll
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.pdb
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\MyAssignment.genruntimeconfig.cache
+C:\Users\salee\desktop\projects\MyAssignment\obj\Debug\net7.0\ref\MyAssignment.dll
